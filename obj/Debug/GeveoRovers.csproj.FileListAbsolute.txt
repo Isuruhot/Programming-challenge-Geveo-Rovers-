@@ -1,0 +1,8 @@
+E:\CardProject\API\GeveoRovers\GeveoRovers\bin\Debug\GeveoRovers.exe.config
+E:\CardProject\API\GeveoRovers\GeveoRovers\bin\Debug\GeveoRovers.exe
+E:\CardProject\API\GeveoRovers\GeveoRovers\bin\Debug\GeveoRovers.pdb
+E:\CardProject\API\GeveoRovers\GeveoRovers\obj\Debug\GeveoRovers.csproj.AssemblyReference.cache
+E:\CardProject\API\GeveoRovers\GeveoRovers\obj\Debug\GeveoRovers.csproj.SuggestedBindingRedirects.cache
+E:\CardProject\API\GeveoRovers\GeveoRovers\obj\Debug\GeveoRovers.csproj.CoreCompileInputs.cache
+E:\CardProject\API\GeveoRovers\GeveoRovers\obj\Debug\GeveoRovers.exe
+E:\CardProject\API\GeveoRovers\GeveoRovers\obj\Debug\GeveoRovers.pdb
